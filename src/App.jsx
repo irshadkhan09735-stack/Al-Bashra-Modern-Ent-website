@@ -68,8 +68,8 @@ const SERVICES = [
 const PROJECTS = [
   { id: 1, title: "Modern Commercial Plaza", category: "Commercial", location: "Ibri", img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800" },
   { id: 2, title: "Luxury Desert Villa", category: "Residential", location: "Dhahirah", img: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" },
-  { id: 3, title: "Government Admin Building", category: "Civil", location: "Muscat", img: "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=800" },
-  { id: 4, title: "Premium Residential Block", category: "Residential", location: "Ibri", img: "https://images.unsplash.com/photo-1449156001437-3a144f7107ba?auto=format&fit=crop&q=80&w=800" },
+  { id: 3, title: "Government Admin Building", category: "Civil", location: "Muscat", img: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80" },
+  { id: 4, title: "Premium Residential Block", category: "Residential", location: "Ibri", img: "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1200&q=80" },
   { id: 5, title: "Site Inspection Team", category: "On-Site", location: "Tabuk", img: "https://i.postimg.cc/QKjTHBbq/1767010702268.jpg" },
   { id: 6, title: "Site Inspection", category: "Going On-Site", location: "Saudi Arabia", img: "https://i.postimg.cc/kVpyLy7j/IMG-20260320-061804.jpg" },
 ];
