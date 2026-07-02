@@ -70,6 +70,8 @@ const PROJECTS = [
   { id: 2, title: "Luxury Desert Villa", category: "Residential", location: "Dhahirah", img: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" },
   { id: 3, title: "Government Admin Building", category: "Civil", location: "Muscat", img: "https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=800" },
   { id: 4, title: "Premium Residential Block", category: "Residential", location: "Ibri", img: "https://images.unsplash.com/photo-1449156001437-3a144f7107ba?auto=format&fit=crop&q=80&w=800" },
+  { id: 5, title: "Site Inspection Team", category: "On-Site", location: "Tabuk", img: "https://i.postimg.cc/https://i.postimg.cc/hvdbZTQN/1767010702268/photo.jpg" },
+  { id: 6, title: "Site Inspection", category: "Going On-Site", location: "Saudi Arabia", img: "https://i.postimg.cc/https://i.postimg.cc/6q3F8HS0/IMG-20260320-061644/photo.jpg" },
 ];
 
 const NavItem = ({ href, children, mobile, onClick }) => (
