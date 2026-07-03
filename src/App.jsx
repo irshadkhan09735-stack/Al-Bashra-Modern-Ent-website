@@ -396,10 +396,10 @@ export default function App() {
                   src={project.img}
                   alt={project.title}
                   className={`w-full h-full transition-transform duration-700 group-hover:scale-105 ${
-                      project.id === 5 || project.id === 6
-                        ? "object-contain bg-white"
-                        : "object-cover"
-                   }`}
+                     project.id === 5 || project.id === 6
+                       ? "object-contain bg-white"
+                       : "object-cover"
+                  }`}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/20 to-transparent opacity-80 group-hover:opacity-100 transition-opacity"></div>
                 <div className="absolute bottom-0 left-0 w-full p-8 translate-y-4 group-hover:translate-y-0 transition-transform">
