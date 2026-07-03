@@ -70,8 +70,8 @@ const PROJECTS = [
   { id: 2, title: "Luxury Desert Villa", category: "Residential", location: "Dhahirah", img: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800" },
   { id: 3, title: "Government Admin Building", category: "Civil", location: "Muscat", img: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80" },
   { id: 4, title: "Premium Residential Block", category: "Residential", location: "Ibri", img: "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1200&q=80" },
-  { id: 5, title: "Site Inspection Team", category: "On-Site", location: "Tabuk", img: "https://i.postimg.cc/2bmF97bp/1767010702268.jpg" },
-  { id: 6, title: "Site Inspection", category: "Going On-Site", location: "Saudi Arabia", img: "https://i.postimg.cc/cgZMkBgG/IMG-20260320-061804.jpg" },
+  { id: 5, title: "Site Inspection Team", category: "On-Site", location: "Tabuk", img: "https://i.ibb.co/7tWznMQz/1767010702268.jpg" },
+  { id: 6, title: "Site Inspection", category: "Going On-Site", location: "Saudi Arabia", img: "https://i.ibb.co/nqgggdFR/IMG-20260320-061804.jpg" },
 ];
 
 const NavItem = ({ href, children, mobile, onClick }) => (
